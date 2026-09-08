@@ -1,0 +1,19 @@
+{
+  "name": "托业错词本",
+  "short_name": "错词本",
+  "description": "离线托业单词记忆：双音标、英式/美式发音、艾宾浩斯复习、Apple Pencil 听写。",
+  "lang": "zh-Hans",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f5",
+  "theme_color": "#007a52",
+  "icons": [
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
